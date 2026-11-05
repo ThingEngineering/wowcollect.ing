@@ -22,7 +22,7 @@ weight: 1
   Kemayo's or Zarillion's per-expansion plugins to start with.
 - [TomTom](https://www.curseforge.com/wow/addons/tomtom) shows a handy arrow pointing you towards waypoints. Many other addons integrate with this.
 
-## Pet Battles
+### Pet Battles
 
 - [Rematch](https://www.curseforge.com/wow/addons/rematch) blurb here.
 - [FixRematch](https://www.curseforge.com/wow/addons/fixrematch) so that Rematch actually works.
