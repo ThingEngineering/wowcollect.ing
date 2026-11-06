@@ -44,7 +44,7 @@
     "make:public": "git init -b main public",
     "seq": "bash -c 'for cmd in \"$@\"; do npm run $cmd || exit 1; done' - ",
     "serve": "npm run _serve",
-    "serve:docker": "npm run install:safe && npm run _hugo-dev -- serve --bind 0.0.0.0 --minify --navigateToChanged --poll 700ms --renderToMemory",
+    "serve:docker": "npm run install:safe && npm run _hugo-dev -- serve --appendPort=false --baseURL=http://localhost:31313 --bind 0.0.0.0 --minify --navigateToChanged --poll 700ms --renderToMemory",
     "test-and-fix": "npm run fix && npm run test-only",
     "test-only": "npm run check:links && npm run test:site",
     "test:site": "node --test 'tests/**/*.test.mjs'",
