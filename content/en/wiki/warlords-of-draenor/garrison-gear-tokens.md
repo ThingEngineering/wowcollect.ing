@@ -8,95 +8,95 @@ weight: 1
 <table style="border-collapse: collapse; border-color: #3598db; border-style: solid; font-size: 13px; margin: 0 auto;" border="1" cellspacing="0">
 <tbody>
 <tr style="height: 50px;">
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114108/tormented-armament">https://www.wowhead.com/item=114108/tormented-armament</a> (34)</td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114109/munificent-armament">https://www.wowhead.com/item=114109/munificent-armament</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114110/turbulent-armament">https://www.wowhead.com/item=114110/turbulent-armament</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114112/grandiose-armament">https://www.wowhead.com/item=114112/grandiose-armament</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114111/formidable-armament">https://www.wowhead.com/item=114111/formidable-armament</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114108/tormented-armament">https://www.wowhead.com/item=114108/tormented-armament</a> (34)</td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114109/munificent-armament">https://www.wowhead.com/item=114109/munificent-armament</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114110/turbulent-armament">https://www.wowhead.com/item=114110/turbulent-armament</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114112/grandiose-armament">https://www.wowhead.com/item=114112/grandiose-armament</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114111/formidable-armament">https://www.wowhead.com/item=114111/formidable-armament</a> </td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114098/tormented-hood">https://www.wowhead.com/item=114098/tormented-hood</a> (32)</td>
-<td style="width: 20%; height: 75.5625px;"><em>Doesn't exist.</em></td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114073/turbulent-hood">https://www.wowhead.com/item=114073/turbulent-hood</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119116/grandiose-hood">https://www.wowhead.com/item=119116/grandiose-hood</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119117/formidable-hood">https://www.wowhead.com/item=119117/formidable-hood</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114098/tormented-hood">https://www.wowhead.com/item=114098/tormented-hood</a> (32)</td>
+<td style="width: 20%;"><em>Doesn't exist.</em></td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114073/turbulent-hood">https://www.wowhead.com/item=114073/turbulent-hood</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=119116/grandiose-hood">https://www.wowhead.com/item=119116/grandiose-hood</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=119117/formidable-hood">https://www.wowhead.com/item=119117/formidable-hood</a> </td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114100/tormented-spaulders">https://www.wowhead.com/item=114100/tormented-spaulders</a> (39)</td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114063/munificent-spaulders">https://www.wowhead.com/item=114063/munificent-spaulders</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114075/turbulent-spaulders">https://www.wowhead.com/item=114075/turbulent-spaulders</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114085/grandiose-spaulders">https://www.wowhead.com/item=114085/grandiose-spaulders</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114091/formidable-spaulders">https://www.wowhead.com/item=114091/formidable-spaulders</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114100/tormented-spaulders">https://www.wowhead.com/item=114100/tormented-spaulders</a> (39)</td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114063/munificent-spaulders">https://www.wowhead.com/item=114063/munificent-spaulders</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114075/turbulent-spaulders">https://www.wowhead.com/item=114075/turbulent-spaulders</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114085/grandiose-spaulders">https://www.wowhead.com/item=114085/grandiose-spaulders</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114091/formidable-spaulders">https://www.wowhead.com/item=114091/formidable-spaulders</a> </td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 20%; height: 75.5625px;"><em>Doesn't exist.</em></td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114058/munificent-robes">https://www.wowhead.com/item=114058/munificent-robes</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114070/turbulent-robes">https://www.wowhead.com/item=114070/turbulent-robes</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114083/grandiose-robes">https://www.wowhead.com/item=114083/grandiose-robes</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114089/formidable-robes">https://www.wowhead.com/item=114089/formidable-robes</a> </td>
+<td style="width: 20%;"><em>Doesn't exist.</em></td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114058/munificent-robes">https://www.wowhead.com/item=114058/munificent-robes</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114070/turbulent-robes">https://www.wowhead.com/item=114070/turbulent-robes</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114083/grandiose-robes">https://www.wowhead.com/item=114083/grandiose-robes</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114089/formidable-robes">https://www.wowhead.com/item=114089/formidable-robes</a> </td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114097/tormented-gauntlets">https://www.wowhead.com/item=114097/tormented-gauntlets</a> (37)</td>
-<td style="width: 20%; height: 75.5625px;"><em>Exists, never implemented.</em></td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114072/turbulent-gauntlets">https://www.wowhead.com/item=114072/turbulent-gauntlets</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119114/grandiose-gauntlets">https://www.wowhead.com/item=119114/grandiose-gauntlets</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119115/formidable-gauntlets">https://www.wowhead.com/item=119115/formidable-gauntlets</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114097/tormented-gauntlets">https://www.wowhead.com/item=114097/tormented-gauntlets</a> (37)</td>
+<td style="width: 20%;"><em>Exists, never implemented.</em></td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114072/turbulent-gauntlets">https://www.wowhead.com/item=114072/turbulent-gauntlets</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=119114/grandiose-gauntlets">https://www.wowhead.com/item=119114/grandiose-gauntlets</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=119115/formidable-gauntlets">https://www.wowhead.com/item=119115/formidable-gauntlets</a> </td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114099/tormented-leggings">https://www.wowhead.com/item=114099/tormented-leggings</a> (36)</td>
-<td style="width: 20%; height: 75.5625px;"><em>Doesn't exist.</em></td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114074/turbulent-leggings">https://www.wowhead.com/item=114074/turbulent-leggings</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119118/grandiose-leggings">https://www.wowhead.com/item=119118/grandiose-leggings</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119119/formidable-leggings">https://www.wowhead.com/item=119119/formidable-leggings</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114099/tormented-leggings">https://www.wowhead.com/item=114099/tormented-leggings</a> (36)</td>
+<td style="width: 20%;"><em>Doesn't exist.</em></td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114074/turbulent-leggings">https://www.wowhead.com/item=114074/turbulent-leggings</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=119118/grandiose-leggings">https://www.wowhead.com/item=119118/grandiose-leggings</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=119119/formidable-leggings">https://www.wowhead.com/item=119119/formidable-leggings</a> </td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 20%; height: 75.5625px;"><em>Doesn't exist.</em></td>
-<td style="width: 20%; height: 75.5625px;"><em>Doesn't exist.</em></td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114079/turbulent-cloak">https://www.wowhead.com/item=114079/turbulent-cloak</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119124/grandiose-cloak">https://www.wowhead.com/item=119124/grandiose-cloak</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119125/formidable-cloak">https://www.wowhead.com/item=119125/formidable-cloak</a> </td>
+<td style="width: 20%;"><em>Doesn't exist.</em></td>
+<td style="width: 20%;"><em>Doesn't exist.</em></td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114079/turbulent-cloak">https://www.wowhead.com/item=114079/turbulent-cloak</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=119124/grandiose-cloak">https://www.wowhead.com/item=119124/grandiose-cloak</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=119125/formidable-cloak">https://www.wowhead.com/item=119125/formidable-cloak</a> </td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114094/tormented-bracers">https://www.wowhead.com/item=114094/tormented-bracers</a> (35)</td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114057/munificent-bracers">https://www.wowhead.com/item=114057/munificent-bracers</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114069/turbulent-bracers">https://www.wowhead.com/item=114069/turbulent-bracers</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114082/grandiose-bracers">https://www.wowhead.com/item=114082/grandiose-bracers</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114088/formidable-bracers">https://www.wowhead.com/item=114088/formidable-bracers</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114094/tormented-bracers">https://www.wowhead.com/item=114094/tormented-bracers</a> (35)</td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114057/munificent-bracers">https://www.wowhead.com/item=114057/munificent-bracers</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114069/turbulent-bracers">https://www.wowhead.com/item=114069/turbulent-bracers</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114082/grandiose-bracers">https://www.wowhead.com/item=114082/grandiose-bracers</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114088/formidable-bracers">https://www.wowhead.com/item=114088/formidable-bracers</a> </td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114101/tormented-girdle">https://www.wowhead.com/item=114101/tormented-girdle</a> (31)</td>
-<td style="width: 20%; height: 75.5625px;"><em>Doesn't exist.</em></td>
-<td style="width: 20%; height: 75.5625px;"><em>Exists, never implemented.</em></td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119120/grandiose-girdle">https://www.wowhead.com/item=119120/grandiose-girdle</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119121/formidable-girdle">https://www.wowhead.com/item=119121/formidable-girdle</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114101/tormented-girdle">https://www.wowhead.com/item=114101/tormented-girdle</a> (31)</td>
+<td style="width: 20%;"><em>Doesn't exist.</em></td>
+<td style="width: 20%;"><em>Exists, never implemented.</em></td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=119120/grandiose-girdle">https://www.wowhead.com/item=119120/grandiose-girdle</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=119121/formidable-girdle">https://www.wowhead.com/item=119121/formidable-girdle</a> </td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114096/tormented-treads">https://www.wowhead.com/item=114096/tormented-treads</a> (33)</td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114059/munificent-treads">https://www.wowhead.com/item=114059/munificent-treads</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114071/turbulent-treads">https://www.wowhead.com/item=114071/turbulent-treads</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114084/grandiose-treads">https://www.wowhead.com/item=114084/grandiose-treads</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114090/formidable-treads">https://www.wowhead.com/item=114090/formidable-treads</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114096/tormented-treads">https://www.wowhead.com/item=114096/tormented-treads</a> (33)</td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114059/munificent-treads">https://www.wowhead.com/item=114059/munificent-treads</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114071/turbulent-treads">https://www.wowhead.com/item=114071/turbulent-treads</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114084/grandiose-treads">https://www.wowhead.com/item=114084/grandiose-treads</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114090/formidable-treads">https://www.wowhead.com/item=114090/formidable-treads</a> </td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 20%; height: 75.5625px;"><em>Doesn't exist.</em></td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114066/munificent-choker">https://www.wowhead.com/item=114066/munificent-choker</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114078/turbulent-choker">https://www.wowhead.com/item=114078/turbulent-choker</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114086/grandiose-choker">https://www.wowhead.com/item=114086/grandiose-choker</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114092/formidable-choker">https://www.wowhead.com/item=114092/formidable-choker</a> </td>
+<td style="width: 20%;"><em>Doesn't exist.</em></td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114066/munificent-choker">https://www.wowhead.com/item=114066/munificent-choker</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114078/turbulent-choker">https://www.wowhead.com/item=114078/turbulent-choker</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114086/grandiose-choker">https://www.wowhead.com/item=114086/grandiose-choker</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114092/formidable-choker">https://www.wowhead.com/item=114092/formidable-choker</a> </td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 20%; height: 75.5625px;"><em>Doesn't exist.</em></td>
-<td style="width: 20%; height: 75.5625px;"><em>Doesn't exist.</em></td>
-<td style="width: 20%; height: 75.5625px;"><em>Exists, never implemented.</em></td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119122/grandiose-ring">https://www.wowhead.com/item=119122/grandiose-ring</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=119123/formidable-ring">https://www.wowhead.com/item=119123/formidable-ring</a> </td>
+<td style="width: 20%;"><em>Doesn't exist.</em></td>
+<td style="width: 20%;"><em>Doesn't exist.</em></td>
+<td style="width: 20%;"><em>Exists, never implemented.</em></td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=119122/grandiose-ring">https://www.wowhead.com/item=119122/grandiose-ring</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=119123/formidable-ring">https://www.wowhead.com/item=119123/formidable-ring</a> </td>
 </tr>
 <tr style="height: 50px;">
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114105/tormented-trinket">https://www.wowhead.com/item=114105/tormented-trinket</a> (38)</td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114068/munificent-trinket">https://www.wowhead.com/item=114068/munificent-trinket</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114080/turbulent-trinket">https://www.wowhead.com/item=114080/turbulent-trinket</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114087/grandiose-trinket">https://www.wowhead.com/item=114087/grandiose-trinket</a> </td>
-<td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114093/formidable-trinket">https://www.wowhead.com/item=114093/formidable-trinket</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114105/tormented-trinket">https://www.wowhead.com/item=114105/tormented-trinket</a> (38)</td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114068/munificent-trinket">https://www.wowhead.com/item=114068/munificent-trinket</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114080/turbulent-trinket">https://www.wowhead.com/item=114080/turbulent-trinket</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114087/grandiose-trinket">https://www.wowhead.com/item=114087/grandiose-trinket</a> </td>
+<td style="width: 20%;"><a href="https://www.wowhead.com/item=114093/formidable-trinket">https://www.wowhead.com/item=114093/formidable-trinket</a> </td>
 </tr>
 </tbody>
 </table>
@@ -123,30 +123,30 @@ weight: 1
 <p>Each type of mission, and sometimes each mission itself, has different requirements to be spawned. See the table below:</p>
 <table class="wiki-table" style="border-collapse: collapse; width: 100%; height: 296.812px; margin: 0 auto;" border="1">
 <tbody>
-<tr style="height: 102.562px;">
-<td class="align-center" style="width: 33.3809%; height: 102.562px;"><strong>Token Type</strong></td>
-<td class="align-center" style="width: 33.3809%; height: 102.562px;"><strong>Follower amount and level</strong></td>
-<td class="align-center" style="width: 33.3809%; height: 102.562px;"><strong>Player item level</strong></td>
+<tr style="height: 50px;">
+<td class="align-center" style="width: 33.3809%;"><strong>Token Type</strong></td>
+<td class="align-center" style="width: 33.3809%;"><strong>Follower amount and level</strong></td>
+<td class="align-center" style="width: 33.3809%;"><strong>Player item level</strong></td>
 </tr>
 <tr style="height: 48.5625px;">
-<td style="width: 33.3809%; height: 48.5625px;"><strong>Tormented</strong></td>
-<td style="width: 33.3809%; height: 48.5625px;">1 x 31-39*</td>
-<td style="width: 33.3809%; height: 48.5625px;">Any</td>
+<td style="width: 33.3809%;"><strong>Tormented</strong></td>
+<td style="width: 33.3809%;">1 x 31-39*</td>
+<td style="width: 33.3809%;">Any</td>
 </tr>
 <tr style="height: 48.5625px;">
-<td style="width: 33.3809%; height: 48.5625px;"><strong>Munificent</strong></td>
-<td style="width: 33.3809%; height: 48.5625px;"> </td>
-<td style="width: 33.3809%; height: 48.5625px;">44 or lower**</td>
+<td style="width: 33.3809%;"><strong>Munificent</strong></td>
+<td style="width: 33.3809%;"> </td>
+<td style="width: 33.3809%;">44 or lower**</td>
 </tr>
 <tr style="height: 48.5625px;">
-<td style="width: 33.3809%; height: 48.5625px;"><strong>Turbulent</strong></td>
-<td style="width: 33.3809%; height: 48.5625px;">3 x 630+</td>
-<td style="width: 33.3809%; height: 48.5625px;">44 or lower**</td>
+<td style="width: 33.3809%;"><strong>Turbulent</strong></td>
+<td style="width: 33.3809%;">3 x 630+</td>
+<td style="width: 33.3809%;">44 or lower**</td>
 </tr>
 <tr style="height: 48.5625px;">
-<td style="width: 33.3809%; height: 48.5625px;"><strong>Grandiose</strong></td>
-<td style="width: 33.3809%; height: 48.5625px;">3 x 645+</td>
-<td style="width: 33.3809%; height: 48.5625px;">44 or lower**</td>
+<td style="width: 33.3809%;"><strong>Grandiose</strong></td>
+<td style="width: 33.3809%;">3 x 645+</td>
+<td style="width: 33.3809%;">44 or lower**</td>
 </tr>
 </tbody>
 </table>
