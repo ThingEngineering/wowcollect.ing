@@ -3,8 +3,10 @@ title: Garrison Gear Tokens
 weight: 1
 ---
 
-<p>Quite a lot of appearance sources come from randomized Garrison content. Regarding gear tokens in Garrison content, accessing them can be confusing and stat squishes have made it downright mysterious.</p>
-<p>There are five sets of gear tokens from Garrison content, as follows:</p>
+Quite a lot of appearance sources come from randomized Garrison content. Regarding gear tokens in Garrison content, accessing them can be confusing and stat squishes have made it downright mysterious.
+
+There are five sets of gear tokens from Garrison content, as follows:
+
 <table style="border-collapse: collapse; border-color: #3598db; border-style: solid; font-size: 13px; width: max-content !important; white-space: nowrap !important; margin: 0 auto;" border="1" cellspacing="0">
 <tbody>
 <tr style="height: 30px;">
@@ -99,28 +101,24 @@ weight: 1
 <td style="width: 20%;"><a href="https://www.wowhead.com/item=114093/formidable-trinket">https://www.wowhead.com/item=114093/formidable-trinket</a> </td>
 </tr>
 </tbody>
+<tfoot>
+<tr>
+<td colspan="5"><em>Non-appearance tokens have been added to show they may be encountered, however useless they may be.</em></td>
+</tr>
+</tfoot>
 </table>
-<p style="margin: 0 auto;"><em>Non-appearance tokens have been added to show they may be encountered, however useless they may be.</em></p>
-<p>If you're looking to do this with as few characters as possible, your main concern are the weapon tokens. The following setup gives you the chance to get all possible weapon appearances:</p>
-<ul style="list-style-type: circle;">
-<li>Priest (Spires, Scepters)</li>
-<li>Rogue (Daggers, Axes, Warmaces)</li>
-<li>Hunter (Bows, Polearms)</li>
-<li>Any Plate class (Greataxes, Axes) - Paladins can also get Warmaces</li>
-</ul>
-<div class="post__toc">
-<h3>Table of Contents</h3>
-<ul>
-<li><a href="#mcetoc_1k0q5adf43n">Mission Spawning Requirements</a></li>
-<li><a href="#mcetoc_1jvuq148i1dd">Turbulent Gear Tokens</a></li>
-<li><a href="#mcetoc_1jvuq148i1de">Grandiose Gear Tokens</a></li>
-<li><a href="#mcetoc_1jvuq148i1df">Formidable Tokens &amp; Greater Bounty Spoils</a></li>
-<li><a href="#mcetoc_1jvuq148i1dg">Notes</a></li>
-<li><a href="#mcetoc_1jvuq148i1dh">Optimized Collecting</a></li>
-</ul>
-</div>
-<h2 id="mcetoc_1k0q5adf43n">Mission Spawning Requirements</h2>
-<p>Each type of mission, and sometimes each mission itself, has different requirements to be spawned. See the table below:</p>
+
+If you're looking to do this with as few characters as possible, your main concern are the weapon tokens. The following setup gives you the chance to get all possible weapon appearances:
+
+- Priest (Spires, Scepters)
+- Rogue (Daggers, Axes, Warmaces)
+- Hunter (Bows, Polearms)
+- Any Plate class (Greataxes, Axes) - Paladins can also get Warmaces
+
+## Mission Spawning Requirements
+
+Each type of mission, and sometimes each mission itself, has different requirements to be spawned. See the table below:
+
 <table class="wiki-table" style="border-collapse: collapse; width: 100%; width: max-content !important; white-space: nowrap !important; margin: 0 auto;" border="1">
 <tbody>
 <tr style="height: 30px;">
@@ -150,65 +148,73 @@ weight: 1
 </tr>
 </tbody>
 </table>
+
 <p><em>*See the first table on the page, in which the Tormented items have a number next to them. In order for their mission to spawn, you must have a follower of that <strong>exact level</strong>. It does not matter if the follower is active or inactive.<br></em>**<em>This terribly low item level can be achieved by either leveling a new character and keeping it below the threshold, or deleting gear on a high-level character. Note that keeping gear in bags will not work, as that is also included in the calculation.</em></p>
-<p>In addition, it seems more likely that missions spawn the more followers you have. It is unknown at this time whether more followers of a specific level results in more chances of missions <em>of that specific level</em> spawning.</p>
-<h2 id="mcetoc_1jvuq148i1dd">Turbulent Gear Tokens</h2>
-<p>The following four tokens can <strong>only</strong> be acquired at random from the <a href="https://www.wowhead.com/item=118924/cache-of-arms#contains">https://www.wowhead.com/item=118924/cache-of-arms#contains</a>, a reward from the Garrison Inn quest <a href="https://www.wowhead.com/quest=37167/and-no-maces">https://www.wowhead.com/quest=37167/and-no-maces</a>:</p>
-<ul style="list-style-type: circle;">
-<li><a href="https://www.wowhead.com/item=114073/turbulent-hood">https://www.wowhead.com/item=114073/turbulent-hood</a></li>
-<li><a href="https://www.wowhead.com/item=114072/turbulent-gauntlets">https://www.wowhead.com/item=114072/turbulent-gauntlets</a></li>
-<li><a href="https://www.wowhead.com/item=114074/turbulent-leggings">https://www.wowhead.com/item=114074/turbulent-leggings</a></li>
-<li><a href="https://www.wowhead.com/item=114079/turbulent-cloak">https://www.wowhead.com/item=114079/turbulent-cloak</a></li>
-</ul>
-<p>It is possible the quest may not be offered by the NPC at all Inn levels, which would explain why some characters will have a different quest available. Also note the quest always rewards 2 tokens - one cloak, and one of the others. Furthermore, <strong>the quest is not repeatable</strong>. You'll need to throw an army of alts at this, especially if you want the cloak sources.</p>
-<h2 id="mcetoc_1jvuq148i1de">Grandiose Gear Tokens</h2>
-<p>Unfortunately, there are missions <strong>only</strong> for the following tokens:</p>
-<ul style="list-style-type: circle;">
-<li><a href="https://www.wowhead.com/item=114112/grandiose-armament">https://www.wowhead.com/item=114112/grandiose-armament</a></li>
-<li><a href="https://www.wowhead.com/item=114085/grandiose-spaulders">https://www.wowhead.com/item=114085/grandiose-spaulders</a></li>
-<li><a href="https://www.wowhead.com/item=114083/grandiose-robes">https://www.wowhead.com/item=114083/grandiose-robes</a></li>
-<li><a href="https://www.wowhead.com/item=114082/grandiose-bracers">https://www.wowhead.com/item=114082/grandiose-bracers</a></li>
-<li><a href="https://www.wowhead.com/item=114084/grandiose-treads">https://www.wowhead.com/item=114084/grandiose-treads</a></li>
-<li><a href="https://www.wowhead.com/item=114086/grandiose-choker">https://www.wowhead.com/item=114086/grandiose-choker</a></li>
-</ul>
-<p>The other tokens can only be found in <a href="https://www.wowhead.com/item=123975/greater-bounty-spoils">https://www.wowhead.com/item=123975/greater-bounty-spoils</a>. Read more about how to get these bags in the next section. This means you'll need this bag reward for the following tokens:</p>
-<ul style="list-style-type: circle;">
-<li><a href="https://www.wowhead.com/item=119116/grandiose-hood">https://www.wowhead.com/item=119116/grandiose-hood</a></li>
-<li><a href="https://www.wowhead.com/item=119114/grandiose-gauntlets">https://www.wowhead.com/item=119114/grandiose-gauntlets</a></li>
-<li><a href="https://www.wowhead.com/item=119118/grandiose-leggings">https://www.wowhead.com/item=119118/grandiose-leggings</a></li>
-<li><a href="https://www.wowhead.com/item=119124/grandiose-cloak">https://www.wowhead.com/item=119124/grandiose-cloak</a></li>
-<li><a href="https://www.wowhead.com/item=119120/grandiose-girdle">https://www.wowhead.com/item=119120/grandiose-girdle</a></li>
-<li><a href="https://www.wowhead.com/item=119122/grandiose-ring">https://www.wowhead.com/item=119122/grandiose-ring</a></li>
-</ul>
-<h2 id="mcetoc_1jvuq148i1df">Formidable Tokens &amp; Greater Bounty Spoils</h2>
-<p>Formidable tokens cannot be acquired through Garrison missions. They can only be obtained from <a href="https://www.wowhead.com/item=123975/greater-bounty-spoils">https://www.wowhead.com/item=123975/greater-bounty-spoils</a>. This means that, upon opening this bag, you have a chance at receiving either a Grandiose or a Formidable token. If you're targeting a specific token, this means you have a <em>1/26 chance</em> of actually getting it, once per week, per character.</p>
-<p>Here's a breakdown of how to get <a href="https://www.wowhead.com/item=123975/greater-bounty-spoils">https://www.wowhead.com/item=123975/greater-bounty-spoils</a>:</p>
-<ul style="list-style-type: circle;">
-<li>Every day, you have a visitor in your Tier 3 Garrison. Sometimes a vendor, sometimes a questgiver.
-<ul style="list-style-type: circle;">
-<li>You're looking to find <a href="https://www.wowhead.com/npc=89753/high-overlord-saurfang">https://www.wowhead.com/npc=89753/high-overlord-saurfang</a> (Horde)</li>
-<li>Or <a href="https://www.wowhead.com/npc=89763/muradin-bronzebeard">https://www.wowhead.com/npc=89763/muradin-bronzebeard</a> (Alliance)</li>
-<li>If he's not up in your Garrison, you can totally visit a friend's Garrison if they have him.</li>
-</ul>
-</li>
-<li>When spawned, you will be offered a quest to kill the final boss of a WOD raid wing.
-<ul style="list-style-type: circle;">
-<li>Once you complete one of these quests, you're locked from accepting any more until the weekly reset.</li>
-<li>There are 12 quests in total, on a fixed rotation.</li>
-<li><strong>Five of them</strong>, sending you to Hellfire Citadel, <strong>award Apexis Crystals instead of Greater Bounty Spoils</strong>.</li>
-</ul>
-</li>
-<li>Pick up the quest, go into the specified LFR wing via <a href="https://www.wowhead.com/npc=94870/seer-kazal">https://www.wowhead.com/npc=94870/seer-kazal</a> and complete the quest.</li>
-<li>Once completed, that character cannot acquire Greater Bounty Spoils until the weekly reset.</li>
-</ul>
-<p>From personal testing, Grandiose tokens seem far more common than Formidable tokens.</p>
-<h2 id="mcetoc_1jvuq148i1dg">Notes</h2>
-<ul style="list-style-type: circle;">
-<li>Garrison missions spawn randomly. Some day you may find a mission for a token, other days not.</li>
-<li>You can purchase <a href="https://www.wowhead.com/item=128307/draenic-weaponry">https://www.wowhead.com/item=128307/draenic-weaponry</a> and <a href="https://www.wowhead.com/item=128308/draenic-armor-set">https://www.wowhead.com/item=128308/draenic-armor-set</a> from the &lt;Local Supplies&gt; vendor near your Mission Table to quickly give a level 40 follower a high item level. The vendor only appears in Level 3 Garrisons.</li>
-<li>Alternatively, <a href="https://www.wowhead.com/item=128314/frozen-arms-of-a-hero">https://www.wowhead.com/item=128314/frozen-arms-of-a-hero</a> can be used.</li>
-<li>Sometimes you may see a Grandiose mission with only two 645+ followers. It's unclear what triggers it.</li>
-</ul>
-<p> </p>
-<p> </p>
-<p><em>Credits to <a href="https://discordapp.com/channels/242423099184775169/1261741961132507166" title="External link (Discord)" target="_blank" rel="noopener noreferrer">Kyros Krane and Yunim</a> for the research!</em></p>
+
+In addition, it seems more likely that missions spawn the more followers you have. It is unknown at this time whether more followers of a specific level results in more chances of missions _of that specific level_ spawning.
+
+## Turbulent Gear Tokens
+
+The following four tokens can <strong>only</strong> be acquired at random from the https://www.wowhead.com/item=118924/cache-of-arms#contains, a reward from the Garrison Inn quest https://www.wowhead.com/quest=37167/and-no-maces:
+
+- https://www.wowhead.com/item=114073/turbulent-hood
+- https://www.wowhead.com/item=114072/turbulent-gauntlets
+- https://www.wowhead.com/item=114074/turbulent-leggings
+- https://www.wowhead.com/item=114079/turbulent-cloak
+
+It is possible the quest may not be offered by the NPC at all Inn levels, which would explain why some characters will
+have a different quest available. Also note the quest always rewards 2 tokens - one cloak, and one of the others. Furthermore,
+**the quest is not repeatable**. You'll need to throw an army of alts at this, especially if you want the cloak sources.
+
+## Grandiose Gear Tokens
+
+Unfortunately, there are missions **only** for the following tokens:
+
+- https://www.wowhead.com/item=114112/grandiose-armament
+- https://www.wowhead.com/item=114085/grandiose-spaulders
+- https://www.wowhead.com/item=114083/grandiose-robes
+- https://www.wowhead.com/item=114082/grandiose-bracers
+- https://www.wowhead.com/item=114084/grandiose-treads
+- https://www.wowhead.com/item=114086/grandiose-choker
+
+The other tokens can only be found in [greater-bounty-spoils]. Read more about how to get these bags in the next section.
+This means you'll need this bag reward for the following tokens:
+
+- https://www.wowhead.com/item=119116/grandiose-hood
+- https://www.wowhead.com/item=119114/grandiose-gauntlets
+- https://www.wowhead.com/item=119118/grandiose-leggings
+- https://www.wowhead.com/item=119124/grandiose-cloak
+- https://www.wowhead.com/item=119120/grandiose-girdle
+- https://www.wowhead.com/item=119122/grandiose-ring
+
+## Formidable Tokens &amp; Greater Bounty Spoils
+
+Formidable tokens cannot be acquired through Garrison missions. They can only be obtained from [greater-bounty-spoils].
+This means that, upon opening this bag, you have a chance at receiving either a Grandiose or a Formidable token. If you're
+targeting a specific token, this means you have a _1/26 chance_ of actually getting it, once per week, per character.
+
+Here's a breakdown of how to get [greater-bounty-spoils]:
+
+- Every day, you have a visitor in your Tier 3 Garrison. Sometimes a vendor, sometimes a questgiver.
+  - Alliance: you're looking for https://www.wowhead.com/npc=89763/muradin-bronzebeard
+  - Horde: you're looking for https://www.wowhead.com/npc=89753/high-overlord-saurfang
+  - If he's not up in your Garrison, you can totally visit a friend's Garrison if they have him.
+- When spawned, you will be offered a quest to kill the final boss of a WOD raid wing.
+  - Once you complete one of these quests, you're locked from accepting any more until the weekly reset.</li>
+  - There are 12 quests in total, on a fixed rotation.</li>
+  - **Five of them**, sending you to Hellfire Citadel, **award Apexis Crystals instead of Greater Bounty Spoils**
+- Pick up the quest, go into the specified LFR wing via https://www.wowhead.com/npc=94870/seer-kazal and complete the quest.
+- Once completed, that character cannot acquire Greater Bounty Spoils until the weekly reset.
+
+From personal testing, Grandiose tokens seem far more common than Formidable tokens.
+
+## Notes
+
+- Garrison missions spawn randomly. Some day you may find a mission for a token, other days not.
+- You can purchase https://www.wowhead.com/item=128307/draenic-weaponry and https://www.wowhead.com/item=128308/draenic-armor-set from the &lt;Local Supplies&gt; vendor near your Mission Table to quickly give a level 40 follower a high item level. The vendor only appears in Level 3 Garrisons.
+- Alternatively, https://www.wowhead.com/item=128314/frozen-arms-of-a-hero can be used (available on the AH).
+- Sometimes you may see a Grandiose mission with only two 645+ followers. It's unclear what triggers it.
+
+> [!NB] Credits to <a href="https://discordapp.com/channels/242423099184775169/1261741961132507166" title="External link (Discord)" target="_blank" rel="noopener noreferrer">Kyros Krane and Yunim</a> for the research!
+
+[greater-bounty-spoils]: https://www.wowhead.com/item=123975/greater-bounty-spoils
