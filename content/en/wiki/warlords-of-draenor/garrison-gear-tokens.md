@@ -100,7 +100,7 @@ weight: 1
 </tr>
 </tbody>
 </table>
-<p><em>Non-appearance tokens have been added to show they may be encountered, however useless they may be.</em></p>
+<p style="text-align: center;"><em>Non-appearance tokens have been added to show they may be encountered, however useless they may be.</em></p>
 <p>If you're looking to do this with as few characters as possible, your main concern are the weapon tokens. The following setup gives you the chance to get all possible weapon appearances:</p>
 <ul style="list-style-type: circle;">
 <li>Priest (Spires, Scepters)</li>
@@ -208,11 +208,6 @@ weight: 1
 <li>You can purchase <a href="https://www.wowhead.com/item=128307/draenic-weaponry">https://www.wowhead.com/item=128307/draenic-weaponry</a> and <a href="https://www.wowhead.com/item=128308/draenic-armor-set">https://www.wowhead.com/item=128308/draenic-armor-set</a> from the &lt;Local Supplies&gt; vendor near your Mission Table to quickly give a level 40 follower a high item level. The vendor only appears in Level 3 Garrisons.</li>
 <li>Alternatively, <a href="https://www.wowhead.com/item=128314/frozen-arms-of-a-hero">https://www.wowhead.com/item=128314/frozen-arms-of-a-hero</a> can be used.</li>
 <li>Sometimes you may see a Grandiose mission with only two 645+ followers. It's unclear what triggers it.</li>
-</ul>
-<h2 id="mcetoc_1jvuq148i1dh">Optimized Collecting</h2>
-<p><em>The following content can be acquired on the side as part of this activity:</em></p>
-<ul style="list-style-type: circle;">
-<li><a href="#INTERNAL_LINK#/post/11"></a><a href="#INTERNAL_LINK#/post/11">Salvage Yard Appearance Sources</a></li>
 </ul>
 <p> </p>
 <p> </p>
