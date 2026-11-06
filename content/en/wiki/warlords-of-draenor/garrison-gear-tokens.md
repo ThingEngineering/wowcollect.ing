@@ -100,7 +100,7 @@ weight: 1
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><em>Non-appearance tokens have been added to show they may be encountered, however useless they may be.</em></p>
+<p style="margin: 0 auto;"><em>Non-appearance tokens have been added to show they may be encountered, however useless they may be.</em></p>
 <p>If you're looking to do this with as few characters as possible, your main concern are the weapon tokens. The following setup gives you the chance to get all possible weapon appearances:</p>
 <ul style="list-style-type: circle;">
 <li>Priest (Spires, Scepters)</li>
@@ -123,27 +123,27 @@ weight: 1
 <p>Each type of mission, and sometimes each mission itself, has different requirements to be spawned. See the table below:</p>
 <table class="wiki-table" style="border-collapse: collapse; width: 100%; width: max-content !important; white-space: nowrap !important; margin: 0 auto;" border="1">
 <tbody>
-<tr style="height: 50px;">
+<tr style="height: 30px;">
 <td class="align-center" style="width: 33.3809%;"><strong>Token Type</strong></td>
 <td class="align-center" style="width: 33.3809%;"><strong>Follower amount and level</strong></td>
 <td class="align-center" style="width: 33.3809%;"><strong>Player item level</strong></td>
 </tr>
-<tr style="height: 48.5625px;">
+<tr style="height: 30px;">
 <td style="width: 33.3809%;"><strong>Tormented</strong></td>
 <td style="width: 33.3809%;">1 x 31-39*</td>
 <td style="width: 33.3809%;">Any</td>
 </tr>
-<tr style="height: 48.5625px;">
+<tr style="height: 30px;">
 <td style="width: 33.3809%;"><strong>Munificent</strong></td>
 <td style="width: 33.3809%;"> </td>
 <td style="width: 33.3809%;">44 or lower**</td>
 </tr>
-<tr style="height: 48.5625px;">
+<tr style="height: 30px;">
 <td style="width: 33.3809%;"><strong>Turbulent</strong></td>
 <td style="width: 33.3809%;">3 x 630+</td>
 <td style="width: 33.3809%;">44 or lower**</td>
 </tr>
-<tr style="height: 48.5625px;">
+<tr style="height: 30px;">
 <td style="width: 33.3809%;"><strong>Grandiose</strong></td>
 <td style="width: 33.3809%;">3 x 645+</td>
 <td style="width: 33.3809%;">44 or lower**</td>
