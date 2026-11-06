@@ -121,7 +121,7 @@ weight: 1
 </div>
 <h2 id="mcetoc_1k0q5adf43n">Mission Spawning Requirements</h2>
 <p>Each type of mission, and sometimes each mission itself, has different requirements to be spawned. See the table below:</p>
-<table class="wiki-table" style="border-collapse: collapse; width: 100%; height: 296.812px; width: max-content !important; white-space: nowrap !important; margin: 0 auto;" border="1">
+<table class="wiki-table" style="border-collapse: collapse; width: 100%; width: max-content !important; white-space: nowrap !important; margin: 0 auto;" border="1">
 <tbody>
 <tr style="height: 50px;">
 <td class="align-center" style="width: 33.3809%;"><strong>Token Type</strong></td>
