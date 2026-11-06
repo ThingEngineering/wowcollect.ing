@@ -5,7 +5,7 @@ weight: 1
 
 <p>Quite a lot of appearance sources come from randomized Garrison content. Regarding gear tokens in Garrison content, accessing them can be confusing and stat squishes have made it downright mysterious.</p>
 <p>There are five sets of gear tokens from Garrison content, as follows:</p>
-<table style="border-collapse: collapse; border-color: #3598db; border-style: solid;" border="1" cellspacing="0" align=center>
+<table style="border-collapse: collapse; border-color: #3598db; border-style: solid; font-size: 12px; margin: 0 auto;" border="1" cellspacing="0">
 <tbody>
 <tr style="height: 75.5625px;">
 <td style="width: 20%; height: 75.5625px;"><a href="https://www.wowhead.com/item=114108/tormented-armament">https://www.wowhead.com/item=114108/tormented-armament</a> (34)</td>
@@ -121,7 +121,7 @@ weight: 1
 </div>
 <h2 id="mcetoc_1k0q5adf43n">Mission Spawning Requirements</h2>
 <p>Each type of mission, and sometimes each mission itself, has different requirements to be spawned. See the table below:</p>
-<table class="wiki-table" style="border-collapse: collapse; width: 100%; height: 296.812px;" border="1">
+<table class="wiki-table" style="border-collapse: collapse; width: 100%; height: 296.812px; margin: 0 auto;" border="1">
 <tbody>
 <tr style="height: 102.562px;">
 <td class="align-center" style="width: 33.3809%; height: 102.562px;"><strong>Token Type</strong></td>
