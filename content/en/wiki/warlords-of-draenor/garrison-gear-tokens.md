@@ -1,3 +1,8 @@
+---
+title: Garrison Gear Tokens
+weight: 1
+---
+
 <p>Quite a lot of appearance sources come from randomized Garrison content. Regarding gear tokens in Garrison content, accessing them can be confusing and stat squishes have made it downright mysterious.</p>
 <p>There are five sets of gear tokens from Garrison content, as follows:</p>
 <table style="border-collapse: collapse; border-color: #3598db; border-style: solid;" border="1" cellspacing="0">
